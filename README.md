@@ -1,6 +1,7 @@
-# Git Assignment - <ShahrzadSoltanieh>
+# Git Assignment - ShahrzadSoltanieh
 
     a. What is an issue?
+
 
     b. What is a pull request?
 
