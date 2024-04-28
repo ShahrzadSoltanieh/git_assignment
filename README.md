@@ -7,12 +7,23 @@
         It is essentially a request to merge a change or a set of changes that is made in a seperate branch into another branch which is in most cases is the main branch.
 
     c. How do I open up a pull request?
-        After making and pushing the changes to a branch of a forked or newly created repository, you need need to create 
-        
+        After making the changes and pushing them to a branch of a forked or newly created repository, you need to go to your repository on GitHub, click on the "Pull requests" tab. Then click on the "New" button. GitHub will compare the changes in your branch with the original repository's main branch (base: main <-- compare: assignment). If everything looks good and you are confident with your changes, you can submit the pull request by clicking the "Create pull request".
+        Next, you need to provide a complete and clear description of your changes in the pull request to help project team members understand the intention and extent of your proposed changes. Once the pull request is open, team members can review your changes,  ask questions, suggest modifications, and/or approve your pull request. 
+
     d. Give me a step by step guide on how to add someone to your repository.
+        1. Navigate to the repository that you want to add project team members.
+        2. Click on the "Settings" tab located on the right side of the repository's menu.
+        3. Click on the "Collaborators" section under the Access section (top left).
+        4. Navigate to "Manage access", and click on "Add people", you will see a field to invite collaborators by searching their GitHub username, full name, or email.
+        5. Once you find the the collaborator's username/full name/ email.
+        6. Click on "Add "username" to this repository.
+        7. Select the appropriate access level for the collaborator (Read, Write, and Admin) 
+        8. Send the invitation.
 
     e. What is the difference between git and GitHub?
-
+        Git is a version control system used to track changes in files during software development. It operates locally on your computer.
+        GitHub is a web-based platform that stores Git repositories in the cloud and provides collaboration tools like issue tracking, project management, and code review.
+        
     f. What does git diff do?
 
     g. What is the main branch?
