@@ -23,9 +23,12 @@
     e. What is the difference between git and GitHub?
         Git is a version control system used to track changes in files during software development. It operates locally on your computer.
         GitHub is a web-based platform that stores Git repositories in the cloud and provides collaboration tools like issue tracking, project management, and code review.
-        
+
     f. What does git diff do?
+        "git diff" is a Git command used to display what's changed in your code over time. It displays the differences between various states of a Git repository. It's particularly useful for comparing changes between different commits, branches, or the working directory.
 
     g. What is the main branch?
-
-    h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+        The main branch is the default and primary branch in a Git repository, that represents the main line of development. It is where the latest and stable version of the code is maintained, and where all changes from different branches come together and integrated.
+        
+    h. Besides our initial commit if it is a new repository, should we directly push our    changes directly into the main branch?
+        Since the main branch represents the main line of development, and it maintains the stable version of the code, it is not recommended to push changes directly to the main branch, especially in collaborative projects. Directly pushing changes to it without thorough testing can introduce bugs or instability to the codebase.
