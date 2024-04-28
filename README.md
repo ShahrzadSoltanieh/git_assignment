@@ -1,4 +1,4 @@
-# Git Assignment - ShahrzadSoltanieh
+# Git Assignment - <ShahrzadSoltanieh>
 
     a. What is an issue?
 
